@@ -21,12 +21,13 @@ After completing the assignment, answer the following reflection questions:
 
 ## Reflection Questions
 
-1. What are some things that you learned through this assignment? Think about the concepts of backtracking, constraint satisfaction, and search algorithms. Were there any particular challenges you faced while implementing the Board class methods or the DFS/BFS functions? How did you overcome them?
+1. What are some things that you learned through this assignment? Think about the concepts of backtracking, constraint satisfaction, and search algorithms. Were there any particular challenges you faced while implementing the Board class methods or the DFS/BFS functions? How did you overcome them? Some things I learned throughout doing this assignment were DFS ad BFS and appying it to the Sudoku. Stack and queues were both required and it seemed to make it a lot more complocated. I overcame it by just trying a lot of things and by solving smaller puzzles. 
 
 
 
-2. How can you apply what you learned in this assignment to future programs or projects? Consider other types of problems that involve searching through possibilities, making decisions, and backtracking when those decisions don't work out. Can you think of real-world scenarios where DFS or BFS might be useful? What about other constraint satisfaction problems?
+2. How can you apply what you learned in this assignment to future programs or projects? Consider other types of problems that involve searching through possibilities, making decisions, and backtracking when those decisions don't work out. Can you think of real-world scenarios where DFS or BFS might be useful? What about other constraint satisfaction problems? Learnin DFS and BFS can help you with figuring out real world scenarios such as scheduling and figuring out easy ways to solve differnet games. It can also help you with mazes, for example. 
 
 
 
 3. Explain how the Stack and Queue classes work and why they are important for DFS and BFS algorithms. Describe the difference between LIFO (Last In First Out) and FIFO (First In First Out) data structures. How does using a Stack versus a Queue change the way the search algorithm explores possible solutions? Why is one data structure better suited for depth-first search and the other for breadth-first search?
+A stack requires a last item is the first removed and a queue rewuires a first item in is the first removed. BFS would give a better solution than DFS because it finds the shortest path. 
